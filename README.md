@@ -71,7 +71,7 @@ Self-studied in Software Development, Machine Learning, and Data Science
 ### 📫 Connect with Me
 
 - GitHub: [github.com/qorahoja](https://github.com/qorahoja)
-- Email: qorahoja.dev@gmail.com
+- Email: muhammadszs009@gmail.com
 
 ---
 
